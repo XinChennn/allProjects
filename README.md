@@ -5,6 +5,6 @@
 | 003  | [springboot 超市管理系统](https://github.com/XinChennn/springboot-thymeleaf-supermarket-system) | https://github.com/XinChennn/springboot-thymeleaf-supermarket-system | https://gitee.com/xinchennn/springboot-thymeleaf-supermarket-system |
 | 004  | [springboot+vue 超市管理系统](https://github.com/XinChennn/xc004-bill-system) | https://github.com/XinChennn/xc004-bill-system               | https://gitee.com/xinchennn/xc004-bill-system                |
 | 005  | [springboot 人事oa管理系统]()                                |                                                              |                                                              |
-| 006  | [springboot 房屋租赁系统]()                                  |                                                              |                                                              |
+| 006  | [springboot 房屋租赁系统](https://github.com/XinChennn/xc006-houseRent) | https://github.com/XinChennn/xc006-houseRent                 | https://gitee.com/xinchennn/xc006-houseRent                  |
 | 007  | [springboot 个人博客系统]()                                  |                                                              |                                                              |
 
