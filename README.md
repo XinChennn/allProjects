@@ -1,13 +1,20 @@
-**完整代码 +  <img src="./pictures/qq.svg" width="20"> 316595344     或   <img src="./pictures/weChat.svg" width="20"> lz316595344  咨询**
+# 接毕业设计和论文
 
-**接毕业设计和论文**
+## 作者QQ：316595344 微信：lz316595344（购买项目免费部署，支持修改，代做毕设）
+
+## 接网站建设、小程序、H5、app、各种系统等
+
+## 选题+开题报告+任务书+程序定制+安装调试+bug解决+代码讲解+论文+答辩ppt 都可以做
 
 **毕业设计所有选题地址**
 
-**[github]👉https://github.com/XinChennn/allProjects**
+[github]👉https://github.com/XinChennn/allProjects
 
-**[忻辰的个人博客]👉https://www.ixinjiu.cn/articles/156**
+[忻辰的个人博客]👉https://www.ixinjiu.cn/articles/156
 
+
+
+表白墙，贴吧  学生群  你在校园还可以贴广告啊  宿舍里面发名片啥的
 
 | 序号 | 项目                                                         | github地址                                                   |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -22,15 +29,25 @@
 | 009  | [Spring Boot 宠物医院商城](https://github.com/XinChennn/xc009-pet-hospital) | https://github.com/XinChennn/xc009-pet-hospital              |
 | 010  | [Spring Boot 校园二手商城系统](https://github.com/XinChennn/xc010-school-shop) | https://github.com/XinChennn/xc010-school-shop               |
 | 011  | [Spring Boot 景区旅游系统](https://github.com/XinChennn/xc011-travel) | https://github.com/XinChennn/xc011-travel                    |
-| 012√ | [Spring Boot+Vue电影购票系统]()                              | √                                                            |
+| 012  | [Spring Boot+Vue电影购票系统](https://github.com/XinChennn/xc012-movie) | https://github.com/XinChennn/xc012-movie                     |
 | 013  | [Spring Boot 网上商城](https://github.com/XinChennn/xc013-mall) | https://github.com/XinChennn/xc013-mall                      |
 | 014  | [Spring Boot 网上商城-仿小米](https://github.com/XinChennn/xc014-starsea-mall) | https://github.com/XinChennn/xc014-starsea-mall              |
 | 015  | [Spring Boot 网上商城-仿天猫](https://github.com/XinChennn/xc015-tmall) | https://github.com/XinChennn/xc015-tmall                     |
 | 016  | [Spring Boot+Vue 图书管理系统](https://github.com/XinChennn/xc016-library-system) | https://github.com/XinChennn/xc016-library-system            |
-| 017  | [Spring Boot+Vue 景区旅游系统]()                             |                                                              |
-| 018√ | [基于Spring Boot的教务管理系统、学生管理系统、课表查询系统  (10000字文档)]() | https://github.com/XinChennn/student-management-system       |
+| 017  | [Spring Boot 食堂管理系统](https://github.com/XinChennn/xc017-stglxt) | https://github.com/XinChennn/xc017-stglxt                    |
+| 018  | [基于Spring Boot的教务管理系统、学生管理系统、课表查询系统  (10000字文档)](https://github.com/XinChennn/xc018-student-management-system) | https://github.com/XinChennn/xc018-student-management-system |
+| 019  | [Spring Boot+Vue 电影院会员管理系统(源代码+数据库+文档)]()   |                                                              |
+| 020  |                                                              |                                                              |
+| 021  |                                                              |                                                              |
+| 022  |                                                              |                                                              |
+| 023  |                                                              |                                                              |
+| 024  |                                                              |                                                              |
+| 025  |                                                              |                                                              |
 
 
-**完整代码 +  <img src="./pictures/qq.svg" width="20"> 316595344     或   <img src="./pictures/weChat.svg" width="20"> lz316595344  咨询**
 
-**接毕业设计和论文**
+# 接毕业设计和论文
+
+## 作者QQ：316595344 微信：lz316595344（购买项目免费部署，支持修改，代做毕设）
+
+## 接网站建设、小程序、H5、app、各种系统等
