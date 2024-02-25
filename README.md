@@ -32,7 +32,7 @@
 | 016  | [Spring Boot+Vue 图书管理系统](https://github.com/XinChennn/xc016-library-system) | https://github.com/XinChennn/xc016-library-system            |
 | 017  | [Spring Boot 食堂管理系统](https://github.com/XinChennn/xc017-stglxt) | https://github.com/XinChennn/xc017-stglxt                    |
 | 018  | [基于Spring Boot的教务管理系统、学生管理系统、课表查询系统  (10000字文档)](https://github.com/XinChennn/xc018-student-management-system) | https://github.com/XinChennn/xc018-student-management-system |
-| 019  | [Spring Boot+Vue 电影院会员管理系统(源代码+数据库+文档)]()   |                                                              |
+| 019  | [Spring Boot+Vue 电影院会员管理系统(源代码+数据库+文档)](https://github.com/XinChennn/xc019-cinema)   | https://github.com/XinChennn/xc019-cinema                                                             |
 | 020  |                                                              |                                                              |
 | 021  |                                                              |                                                              |
 | 022  |                                                              |                                                              |
