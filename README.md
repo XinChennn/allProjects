@@ -12,8 +12,8 @@
 
 [忻辰的个人博客]👉https://www.ixinjiu.cn/articles/156
 
-| 序号 | 项目                                                         | github地址                                                   |
-| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 序号 | 项目                                                        | github地址                                                   |
+| ---- | ----------------------------------------------------------- | ------------------------------------------------------------ |
 | 001  | [Spring Boot 电商书城](https://github.com/XinChennn/bookstore) | https://github.com/XinChennn/bookstore                       |
 | 002  | [Spring Boot 酒店预订/管理系统](https://github.com/XinChennn/hotel) | https://github.com/XinChennn/hotel                           |
 | 003  | [Spring Boot 超市管理系统](https://github.com/XinChennn/springboot-thymeleaf-supermarket-system) | https://github.com/XinChennn/springboot-thymeleaf-supermarket-system |
@@ -32,13 +32,13 @@
 | 016  | [Spring Boot+Vue 图书管理系统](https://github.com/XinChennn/xc016-library-system) | https://github.com/XinChennn/xc016-library-system            |
 | 017  | [Spring Boot 食堂管理系统](https://github.com/XinChennn/xc017-stglxt) | https://github.com/XinChennn/xc017-stglxt                    |
 | 018  | [基于Spring Boot的教务管理系统、学生管理系统、课表查询系统  (10000字文档)](https://github.com/XinChennn/xc018-student-management-system) | https://github.com/XinChennn/xc018-student-management-system |
-| 019  | [Spring Boot+Vue 电影院会员管理系统(源代码+数据库+文档)](https://github.com/XinChennn/xc019-cinema)   | https://github.com/XinChennn/xc019-cinema                                                             |
-| 020  |                                                              |                                                              |
-| 021  |                                                              |                                                              |
-| 022  |                                                              |                                                              |
-| 023  |                                                              |                                                              |
-| 024  |                                                              |                                                              |
-| 025  |                                                              |                                                              |
+| 019  | [Spring Boot+Vue 电影院会员管理系统(源代码+数据库+文档)](https://github.com/XinChennn/xc019-cinema) | https://github.com/XinChennn/xc019-cinema                                                             |
+| 020  | [Spring Boot + Thymeleaf 实现的任务发布网站（源码+数据库）](https://github.com/XinChennn/xc020-springboot-recruit)|  https://github.com/XinChennn/xc020-springboot-recruit  |
+| 021  | [Spring Boot+Vue社团管理系统]()  |  |
+| 022  | [Spring Boot 校园二手交易网站](https://github.com/XinChennn/xc022-Used-Trading-Platform2) |  https://github.com/XinChennn/xc022-Used-Trading-Platform2  |
+| 023  |                                                             |                                                              |
+| 024  |                                                             |                                                              |
+| 025  |                                                             |                                                              |
 
 
 
