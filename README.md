@@ -12,8 +12,9 @@
 
 [忻辰的个人博客]👉https://www.ixinjiu.cn/articles/156
 
-| 序号 | 项目                                                        | github地址                                                   |
-| ---- | ----------------------------------------------------------- | ------------------------------------------------------------ |
+
+| 序号 | 项目                                                         | github地址                                                   |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 001  | [Spring Boot 电商书城](https://github.com/XinChennn/bookstore) | https://github.com/XinChennn/bookstore                       |
 | 002  | [Spring Boot 酒店预订/管理系统](https://github.com/XinChennn/hotel) | https://github.com/XinChennn/hotel                           |
 | 003  | [Spring Boot 超市管理系统](https://github.com/XinChennn/springboot-thymeleaf-supermarket-system) | https://github.com/XinChennn/springboot-thymeleaf-supermarket-system |
@@ -31,14 +32,49 @@
 | 015  | [Spring Boot 网上商城-仿天猫](https://github.com/XinChennn/xc015-tmall) | https://github.com/XinChennn/xc015-tmall                     |
 | 016  | [Spring Boot+Vue 图书管理系统](https://github.com/XinChennn/xc016-library-system) | https://github.com/XinChennn/xc016-library-system            |
 | 017  | [Spring Boot 食堂管理系统](https://github.com/XinChennn/xc017-stglxt) | https://github.com/XinChennn/xc017-stglxt                    |
-| 018  | [基于Spring Boot的教务管理系统、学生管理系统、课表查询系统  (10000字文档)](https://github.com/XinChennn/xc018-student-management-system) | https://github.com/XinChennn/xc018-student-management-system |
-| 019  | [Spring Boot+Vue 电影院会员管理系统(源代码+数据库+文档)](https://github.com/XinChennn/xc019-cinema) | https://github.com/XinChennn/xc019-cinema                                                             |
-| 020  | [Spring Boot + Thymeleaf 实现的任务发布网站（源码+数据库）](https://github.com/XinChennn/xc020-springboot-recruit)|  https://github.com/XinChennn/xc020-springboot-recruit  |
-| 021  | [Spring Boot+Vue社团管理系统]()  |  |
-| 022  | [Spring Boot 校园二手交易网站](https://github.com/XinChennn/xc022-Used-Trading-Platform2) |  https://github.com/XinChennn/xc022-Used-Trading-Platform2  |
-| 023  |                                                             |                                                              |
-| 024  |                                                             |                                                              |
-| 025  |                                                             |                                                              |
+| 018  | [Spring Boot 教务管理系统、学生管理系统、课表查询系统  (10000字文档)](https://github.com/XinChennn/xc018-student-management-system) | https://github.com/XinChennn/xc018-student-management-system |
+| 019  | [Spring Boot+Vue 电影院会员管理系统(源代码+数据库+文档)](https://github.com/XinChennn/xc019-cinema) | https://github.com/XinChennn/xc019-cinema                    |
+| 020  | [Spring Boot + Thymeleaf 实现的任务发布网站（源码+数据库）](https://github.com/XinChennn/xc020-springboot-recruit) | https://github.com/XinChennn/xc020-springboot-recruit        |
+| 021  | [Spring Boot+Vue社团管理系统]()                              |                                                              |
+| 022  | [Spring Boot 校园二手交易网站](https://github.com/XinChennn/xc022-Used-Trading-Platform2) | https://github.com/XinChennn/xc022-Used-Trading-Platform2    |
+| 023  | Spring Boot + Vue在线考试系统                                |                                                              |
+| 024  | Spring Boot + Vue心理咨询系统                                |                                                              |
+| 025  | Spring Boot + Vue房屋租赁系统                                |                                                              |
+| 026  | Spring Boot健身房管理系统                                    |                                                              |
+| 027  | Spring Boot + Vue音乐系统                                    |                                                              |
+| 028  | Spring Boot + Vue疫情物资管理系统                            |                                                              |
+| 029  | Spring Boot + Vue人力资源管理系统 https://github.com/fellow-me/hrm/tree/37705adcc2f9d30a90dc6d668698f05d1c9eec09   https://github.com/ynwynw/hrm-public/tree/master |                                                              |
+| 030  | Spring Boot社区论坛系统                                      |                                                              |
+| 031  | Spring Boot + Vue小米商城系统                                |                                                              |
+| 032  | Spring Boot + Vue汽车租赁系统                                |                                                              |
+| 033  | Spring Boot + Vue美食分享系统                                |                                                              |
+| 034  | Spring Boot + Vue房屋维修系统                                |                                                              |
+| 035  | Spring Boot小区物业系统                                      |                                                              |
+| 036  | Spring Boot + Vue高校就业系统                                |                                                              |
+| 037  | Spring Boot快递代拿系统                                      |                                                              |
+| 038  | Spring Boot + Vue房屋中介系统                                |                                                              |
+| 039  | Spring Boot + Vue医院hrp系统                                 |                                                              |
+| 040  | Spring Boot + Vue校园点餐系统                                |                                                              |
+| 041  | Spring Boot + Vue图书馆座位预约                              |                                                              |
+| 042  | Spring Boot + Vue心理咨询系统                                |                                                              |
+| 043  | Spring Boot医院门诊挂号系统                                  |                                                              |
+| 044  | Spring Boot + Vue文物收藏系统                                |                                                              |
+| 045  | Spring Boot + Vue超市进销存管理系统                          |                                                              |
+| 046  | Spring Boot + Vue房屋租赁出售系统                            |                                                              |
+| 047  | Spring Boot 微信小程序宠物领养医院系统                       |                                                              |
+| 048  | Spring Boot + Vue宠物医院系统                                |                                                              |
+| 049  | Spring Boot 宠物店管理系统                                   |                                                              |
+| 050  | Spring Boot + Vue宠物店猫咖管理系统                          |                                                              |
+| 051  | Spring Boot健身房管理系统                                    |                                                              |
+| 052  | Spring Boot小说阅读网站                                      |                                                              |
+| 053  | Spring Boot + Vue宠物领养系统                                |                                                              |
+| 054  | Spring Boot + Vue民宿管理系统                                |                                                              |
+| 055  | Spring Boot + Vue招聘系统                                    |                                                              |
+| 056  | Spring Boot + Vue校园跑腿系统                                |                                                              |
+
+
+
+
 
 
 
